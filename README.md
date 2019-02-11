@@ -7,4 +7,4 @@ This Github repository contains programs developed during the Spring 2019 class 
 ### Catawba College, Salisbury, NC
 ### pthompso@catawba.edu
 
-####[Link](http://www.catawba.edu)
+### [Link](http://www.catawba.edu)
